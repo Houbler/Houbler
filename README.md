@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h1 align="center">Hi there, I'm Mark</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of the field of computer engineering</h3>
 <!--
 **Houbler/Houbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
